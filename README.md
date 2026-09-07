@@ -28,3 +28,8 @@
 
 ## 学习说明
 所有文档记录：现象 → 排查命令 → 根因 → 修复步骤。
+
+## 本地使用
+```bash
+git clone https://github.com/dwdwd123123/linux‑practice.git
+cd linux‑practice
