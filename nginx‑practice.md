@@ -2,7 +2,7 @@
 ## 实验目的
 
 ## 实验环境
-CentOS Stream9 Minimal
+Rocky-9
 
 ## 操作步骤
 

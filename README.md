@@ -2,7 +2,7 @@
 > 个人Linux运维练习仓库，CentOS Stream9实操记录，包含实验复现、故障模拟、排错过程。
 
 ## 学习环境
-- OS：CentOS Stream 9 Minimal 最小化安装
+- OS：Rocky-9
 - - 工具：FinalShell、VSCode、Git
 - 初始化脚本：setup.sh，补齐基础依赖、关闭MySQL初始密码
 
@@ -24,7 +24,7 @@
 - `notes/`：日常零散命令笔记（后续新建）
 
 ## 本月验收标准
-拿到全新CentOS Stream9虚拟机，独立完成Nginx部署；复现故障，通过日志、命令定位问题并修复。
+拿到全新Rocky-9虚拟机，独立完成Nginx部署；复现故障，通过日志、命令定位问题并修复。
 
 ## 学习说明
 所有文档记录：现象 → 排查命令 → 根因 → 修复步骤。
